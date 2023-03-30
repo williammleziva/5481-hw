@@ -1,0 +1,12 @@
+Question 5
+Tip colors are assigned by phylum. For example, 152801 and 3855581 are both Euryachaeorta which get colored orange. 
+These and sequences from the same phylum are likely to be near each other in the the tree as they tend to have similar sequences.
+
+Question 6 
+All species even from different phylum have a lot of idnetical DNA so it's possible that sequences from different phylum are more similar than those in the same phylum. 
+The similrity measure uses DNA sequences and not Amino Acids, therefore sequences that encode idnetical Proteins can have different GC contents and low similrities.
+
+Question 8 
+The most similar nodes are matched first and these become the outermost nodes. For bootstrapped samples outer nodes are more likely to be paired
+as they are in the original data since the original sequences have greater similarity. Later/inner nodes have lower similarity and are therefore less 
+consistent in the bootstrapped data

@@ -1,0 +1,6 @@
+21.0
+>another fake name yaddah yaddah {more biology words} [even more biology words] 
+________________GACATTATTGACACTGTTATTCGGACT_TTTTGCCAGACACTG__TTATTCTG__________________________________________________________
+                ||||||||x|||||||||||||x|||| ||||xxx|||x| ||  |x|xx|||                                                          
+AACTGCTGAAGCCCGTGACATTATAGACACTGTTATTCTGACTATTTTCGAAGAGA_TGCCTGAAACTGCTGAAGCCCGTGACATTATAGACACTGTTATTCTGACTATTTTCGAAGAGATGCCTGA
+>some fake name blah blah {biology words} [more biology words] 
